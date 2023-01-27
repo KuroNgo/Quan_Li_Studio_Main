@@ -1,0 +1,7 @@
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DTO_QuanLiStudio\bin\Debug\DTO_QuanLiStudio.dll.config
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DTO_QuanLiStudio\bin\Debug\DTO_QuanLiStudio.dll
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DTO_QuanLiStudio\bin\Debug\DTO_QuanLiStudio.pdb
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DTO_QuanLiStudio\obj\Debug\DTO_QuanLiStudio.csproj.AssemblyReference.cache
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DTO_QuanLiStudio\obj\Debug\DTO_QuanLiStudio.csproj.CoreCompileInputs.cache
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DTO_QuanLiStudio\obj\Debug\DTO_QuanLiStudio.dll
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DTO_QuanLiStudio\obj\Debug\DTO_QuanLiStudio.pdb

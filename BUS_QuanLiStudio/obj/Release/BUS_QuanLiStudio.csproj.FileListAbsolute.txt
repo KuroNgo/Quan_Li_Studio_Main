@@ -1,0 +1,14 @@
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\BUS_QuanLiStudio\bin\Release\BUS_QuanLiStudio.dll.config
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\BUS_QuanLiStudio\bin\Release\BUS_QuanLiStudio.dll
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\BUS_QuanLiStudio\bin\Release\BUS_QuanLiStudio.pdb
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\BUS_QuanLiStudio\bin\Release\DAL_QuanLiStudio.dll
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\BUS_QuanLiStudio\bin\Release\DTO_QuanLiStudio.dll
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\BUS_QuanLiStudio\bin\Release\DAL_QuanLiStudio.pdb
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\BUS_QuanLiStudio\bin\Release\DAL_QuanLiStudio.dll.config
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\BUS_QuanLiStudio\bin\Release\DTO_QuanLiStudio.pdb
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\BUS_QuanLiStudio\bin\Release\DTO_QuanLiStudio.dll.config
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\BUS_QuanLiStudio\obj\Release\BUS_QuanLiStudio.csproj.AssemblyReference.cache
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\BUS_QuanLiStudio\obj\Release\BUS_QuanLiStudio.csproj.CoreCompileInputs.cache
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\BUS_QuanLiStudio\obj\Release\BUS_QuanLiStudio.csproj.CopyComplete
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\BUS_QuanLiStudio\obj\Release\BUS_QuanLiStudio.dll
+C:\Users\ngoth\OneDrive\Máy tính\Clone_github\BUS_QuanLiStudio\obj\Release\BUS_QuanLiStudio.pdb

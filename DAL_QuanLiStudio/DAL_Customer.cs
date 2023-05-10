@@ -10,14 +10,14 @@ namespace DAL_QuanLiStudio
         #region Get Customer
         public DataTable getCustomer()
         {
-            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter("SELECT * FROM KhachHang Where Enable =1", _conn);
+            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter("SELECT ID,TenKH, CONCAT(Xa,',',Huyen,',',Tinh) as DiaChi,Email,SoDienThoai,enable FROM KhachHang Where Enable =1", _conn);
             DataTable dtCustomer = new DataTable();
             sqlDataAdapter.Fill(dtCustomer);
             return dtCustomer;
         }
         public DataTable getCustomer2()
         {
-            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter("SELECT * FROM KhachHang Where Enable =0", _conn);
+            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter("SELECT ID,TenKH, CONCAT(Xa,',',Huyen,',',Tinh) as DiaChi,Email,SoDienThoai,enable FROM KhachHang Where Enable =0", _conn);
             DataTable dtCustomer = new DataTable();
             sqlDataAdapter.Fill(dtCustomer);
             return dtCustomer;

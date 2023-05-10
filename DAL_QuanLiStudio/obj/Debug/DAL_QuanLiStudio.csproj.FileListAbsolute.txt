@@ -1,11 +1,12 @@
-C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DAL_QuanLiStudio\bin\Debug\DAL_QuanLiStudio.dll.config
-C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DAL_QuanLiStudio\bin\Debug\DAL_QuanLiStudio.dll
-C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DAL_QuanLiStudio\bin\Debug\DAL_QuanLiStudio.pdb
-C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DAL_QuanLiStudio\bin\Debug\DTO_QuanLiStudio.dll
-C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DAL_QuanLiStudio\bin\Debug\DTO_QuanLiStudio.pdb
-C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DAL_QuanLiStudio\bin\Debug\DTO_QuanLiStudio.dll.config
-C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DAL_QuanLiStudio\obj\Debug\DAL_QuanLiStudio.csproj.AssemblyReference.cache
-C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DAL_QuanLiStudio\obj\Debug\DAL_QuanLiStudio.csproj.CoreCompileInputs.cache
-C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DAL_QuanLiStudio\obj\Debug\DAL_QuanLiStudio.csproj.CopyComplete
-C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DAL_QuanLiStudio\obj\Debug\DAL_QuanLiStudio.dll
-C:\Users\ngoth\OneDrive\Máy tính\Clone_github\DAL_QuanLiStudio\obj\Debug\DAL_QuanLiStudio.pdb
+D:\Product By Kuro\Programming Language\CS\mỵ job\TAM-PRODUCTION\Clone_github\DAL_QuanLiStudio\bin\Debug\DAL_QuanLiStudio.dll.config
+D:\Product By Kuro\Programming Language\CS\mỵ job\TAM-PRODUCTION\Clone_github\DAL_QuanLiStudio\bin\Debug\DAL_QuanLiStudio.dll
+D:\Product By Kuro\Programming Language\CS\mỵ job\TAM-PRODUCTION\Clone_github\DAL_QuanLiStudio\bin\Debug\DAL_QuanLiStudio.pdb
+D:\Product By Kuro\Programming Language\CS\mỵ job\TAM-PRODUCTION\Clone_github\DAL_QuanLiStudio\bin\Debug\System.ValueTuple.dll
+D:\Product By Kuro\Programming Language\CS\mỵ job\TAM-PRODUCTION\Clone_github\DAL_QuanLiStudio\bin\Debug\DTO_QuanLiStudio.dll
+D:\Product By Kuro\Programming Language\CS\mỵ job\TAM-PRODUCTION\Clone_github\DAL_QuanLiStudio\bin\Debug\DTO_QuanLiStudio.pdb
+D:\Product By Kuro\Programming Language\CS\mỵ job\TAM-PRODUCTION\Clone_github\DAL_QuanLiStudio\bin\Debug\DTO_QuanLiStudio.dll.config
+D:\Product By Kuro\Programming Language\CS\mỵ job\TAM-PRODUCTION\Clone_github\DAL_QuanLiStudio\obj\Debug\DAL_QuanLiStudio.csproj.AssemblyReference.cache
+D:\Product By Kuro\Programming Language\CS\mỵ job\TAM-PRODUCTION\Clone_github\DAL_QuanLiStudio\obj\Debug\DAL_QuanLiStudio.csproj.CoreCompileInputs.cache
+D:\Product By Kuro\Programming Language\CS\mỵ job\TAM-PRODUCTION\Clone_github\DAL_QuanLiStudio\obj\Debug\DAL_QuanLiStudio.csproj.CopyComplete
+D:\Product By Kuro\Programming Language\CS\mỵ job\TAM-PRODUCTION\Clone_github\DAL_QuanLiStudio\obj\Debug\DAL_QuanLiStudio.dll
+D:\Product By Kuro\Programming Language\CS\mỵ job\TAM-PRODUCTION\Clone_github\DAL_QuanLiStudio\obj\Debug\DAL_QuanLiStudio.pdb

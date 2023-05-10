@@ -41,7 +41,7 @@ namespace DAL_QuanLiStudio
                 //Connect
                 _conn.Open();
                 //Query string
-                string SQL = string.Format("INSERT INTO DICHVU(TenGoiQuay,LoaiGoiQuay,DonGia,SoNguoiQuay,MoTa,Enable) VALUES ('{0}',{1},{2},{3},'{4}',1)", sv.DichVu_Name, sv.DichVu_CategoryService, sv.DichVu_Price, sv.DichVu_PhotographerNumber, sv.DichVu_Content);
+                string SQL = string.Format("INSERT INTO DICHVU(TenGoiQuay,LoaiGoiQuay,DonGia,SoNguoiQuay,MoTa,Enable) VALUES (N'{0}',{1},{2},{3},N'{4}',1)", sv.DichVu_Name, sv.DichVu_CategoryService, sv.DichVu_Price, sv.DichVu_PhotographerNumber, sv.DichVu_Content);
                 //Command
                 SqlCommand sqlCommand = new SqlCommand(SQL, _conn);
                 // Khi có nhiều dòng dữ liệu cần được chỉnh sửa,
@@ -76,7 +76,7 @@ namespace DAL_QuanLiStudio
             try
             {
                 _conn.Open();
-                string SQL = string.Format("UPDATE DICHVU SET TenGoiQuay='{0}',LoaiGoiQuay={1},DonGia={2},SoNguoiQuay={3},MoTa='{4}',Enable={5} WHERE ID={6}", sv.DichVu_Name, sv.DichVu_CategoryService, sv.DichVu_Price, sv.DichVu_PhotographerNumber, sv.DichVu_Content, sv.DichVu_Enable, sv.DichVu_ID);
+                string SQL = string.Format("UPDATE DICHVU SET TenGoiQuay=N'{0}',LoaiGoiQuay={1},DonGia={2},SoNguoiQuay={3},MoTa=N'{4}',Enable={5} WHERE ID={6}", sv.DichVu_Name, sv.DichVu_CategoryService, sv.DichVu_Price, sv.DichVu_PhotographerNumber, sv.DichVu_Content, sv.DichVu_Enable, sv.DichVu_ID);
                 SqlCommand sqlCommand = new SqlCommand(SQL, _conn);
                 // Khi có nhiều dòng dữ liệu cần được chỉnh sửa,
                 // nếu có quá trình thực hiện bị lỗi tại một dòng nào đó thì toàn bộ công việc chỉnh sửa coi như thất bại

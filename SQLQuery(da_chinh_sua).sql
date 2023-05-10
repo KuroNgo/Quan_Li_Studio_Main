@@ -206,17 +206,27 @@ alter table Picture_Of_Customer add constraint fk_ID_Pic_KH foreign key(IDKhachH
 -- Thêm các thuộc tính mới
 alter table CT_HoaDon add MaNV int
 alter table CT_HoaDon add MaKH int
+alter table CT_HoaDon add DonGia float
+alter table CT_HoaDon add DonGiaThoChup float
 
 alter table NhanVien add Xa nvarchar(1000)
 alter table NhanVien add Huyen nvarchar(1000)
 alter table NhanVien add Tinh nvarchar(1000)
 alter table NhanVien add Hinh varbinary(max) 
+alter table NhanVien add GioiTinh nvarchar(20)
+alter table NhanVien add Luong float
+alter table NhanVien add LoaiMucLuong nvarchar(100)
+alter table NhanVien add TinhTrangLamViec nvarchar(100)
+alter table NhanVien add NgayThoiViec datetime 
+alter table NhanVien add NgayVaolam datetime
+alter table NhanVien add ThongTinHopDong nvarchar
+alter table NhanVien add LyDoThoiViec nvarchar
 
 alter table KhachHang add Xa nvarchar(1000)
 alter table KhachHang add Huyen nvarchar(1000)
 alter table KhachHang add Tinh nvarchar(1000)
 alter table KhachHang add Hinh varbinary(max) 
-
+alter table KhachHang add GioiTinh nvarchar(10)
 
 -- Xóa các thứ không cần thiết
 alter table HoaDon drop column taikhoan
@@ -224,8 +234,11 @@ alter table HoaDon drop column MaNV
 alter table HoaDon drop constraint fk_MaNV
 alter table HoaDon drop constraint fk_MaKH2
 alter table HoaDon drop column MaKH
+
+alter table KhachHang drop column GioiTinh
 alter table CT_hoaDon drop column DonGia
 alter table NhanVien drop column IDQuocGia
+
 drop table KhachHang_Detail
 drop table NhanVien_Detail
 drop table Picture_OF_Customer

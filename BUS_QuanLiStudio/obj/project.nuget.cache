@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "L0QSAdIgcGv/3o+V+7MNBKSm0RCe9D+NebHaRktkYQegqO/L+rP0vz2WXtTbpSrDXiELCZSOIZiz78qB7ui7Ew==",
+  "success": true,
+  "projectFilePath": "D:\\Product By Kuro\\Programming Language\\CS\\mỵ job\\TAM-PRODUCTION\\Clone_github\\BUS_QuanLiStudio\\BUS_QuanLiStudio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoaip\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\hoaip\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.0\\microsoft.netframework.referenceassemblies.net48.1.0.0.nupkg.sha512",
+    "C:\\Users\\hoaip\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512",
+    "C:\\Users\\hoaip\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
+    "C:\\Users\\hoaip\\.nuget\\packages\\system.runtime.windowsruntime\\4.7.0\\system.runtime.windowsruntime.4.7.0.nupkg.sha512",
+    "C:\\Users\\hoaip\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
+    "C:\\Users\\hoaip\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
